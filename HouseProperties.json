@@ -1,0 +1,208 @@
+{
+  "properties": [
+    {
+      "id": "House 1",
+      "type": "House",
+      "bedrooms": 3,
+      "price": 699000,
+      "tenure": "Freehold",
+      "description": "Spacious three-bedroom house with garden and garage.",
+      "location": "Maple Avenue, Ealing, London.",
+      "reservation": "(713) 555-8897",
+      "picture": "../../public/assets/items/H1.jpg",
+      "url": "properties/prop1.html",
+      "added": {
+        "month": "Decemberr",
+        "day": 12,
+        "year": 2024
+      }
+    },
+    {
+      "id": "House 2",
+      "type": "House",
+      "bedrooms": 3,
+      "price": 825000,
+      "tenure": "Freehold",
+      "description": "Modern three-bedroom house near schools and transport links.",
+      "location": "Rosewood Drive, Wimbledon, London.",
+      "reservation": "(808) 555-3312",
+      "picture": "../../public/assets/items/H2.jpg",
+      "url": "properties/prop2.html",
+      "added": {
+        "month": "January",
+        "day": 2,
+        "year": 2025
+      }
+    },
+    {
+      "id": "House 3",
+      "type": "House",
+      "bedrooms": 4,
+      "price": 720500,
+      "tenure": "Freehold",
+      "description": "Charming four-bedroom house with private garden and parking.",
+      "location": "Oak Lane, Kingston, Surrey.",
+      "reservation": "(615) 555-7746",
+      "picture": "../../public/assets/items/H3.jpg",
+      "url": "properties/prop2.html",
+      "added": {
+        "month": "January",
+        "day": 1,
+        "year": 2025
+      }
+    },
+    {
+      "id": "House 4",
+      "type": "House",
+      "bedrooms": 2,
+      "price": 770000,
+      "tenure": "Freehold",
+      "description": "Luxury two-bedroom house with pool and entertainment space.",
+      "location": "Elm Street, Hampstead, London.",
+      "reservation": "(917) 555-6298",
+      "picture": "../../public/assets/items/H4.jpg",
+      "url": "properties/prop2.html",
+      "added": {
+        "month": "December",
+        "day": 18,
+        "year": 2024
+      }
+    },
+    {
+      "id": "House 5",
+      "type": "House",
+      "bedrooms": 3,
+      "price": 685250,
+      "tenure": "Freehold",
+      "description": "Elegant three-bedroom house with terrace and quiet surroundings.",
+      "location": "Willow Crescent, Clapham, London.",
+      "reservation": "(404) 555-3765",
+      "picture": "../../public/assets/items/H5.jpg",
+      "url": "properties/prop2.html",
+      "added": {
+        "month": "January",
+        "day": 3,
+        "year": 2024
+      }
+    },
+    {
+      "id": "House 6",
+      "type": "House",
+      "bedrooms": 4,
+      "price": 780000,
+      "tenure": "Freehold",
+      "description": "Elegant four-bedroom house with driveway and large garden.",
+      "location": "Willow Lane, Hampstead, London.",
+      "reservation": "(702) 555-1947",
+      "picture": "../../public/assets/items/H6.jpg",
+      "url": "properties/prop2.html",
+      "added": {
+        "month": "December",
+        "day": 4,
+        "year": 2024
+      }
+    },
+    {
+      "id": "House 7",
+      "type": "House",
+      "bedrooms": 2,
+      "price": 790500,
+      "tenure": "Freehold",
+      "description": "Cozy two-bedroom flat with balcony and modern finishes.",
+      "location": "Oak Road, Wimbledon, London.",
+      "reservation": "(412) 555-9532",
+      "picture": "../../public/assets/items/H7.jpg",
+      "url": "properties/prop2.html",
+      "added": {
+        "month": "December",
+        "day": 9,
+        "year": 2024
+      }
+    },
+    {
+      "id": "House 8",
+      "type": "House",
+      "bedrooms": 3,
+      "price": 800000,
+      "tenure": "Freehold",
+      "description": "Luxury three-bedroom house with pool and private parking.",
+      "location": "Elm Grove, Chelsea, London.",
+      "reservation": "(513) 555-8146",
+      "picture": "../../public/assets/items/H8.jpg",
+      "url": "properties/prop2.html",
+      "added": {
+        "month": "December",
+        "day": 29,
+        "year": 2024
+      }
+    },
+    {
+      "id": "House 9",
+      "type": "House",
+      "bedrooms": 4,
+      "price": 815000,
+      "tenure": "Freehold",
+      "description": "Bright four-bedroom flat near station and local shops.",
+      "location": "Birch Street, Islington, London.",
+      "reservation": "(646) 555-2224",
+      "picture": "../../public/assets/items/H9.jpg",
+      "url": "properties/prop2.html",
+      "added": {
+        "month": "December",
+        "day": 26,
+        "year": 2024
+      }
+    },
+    {
+      "id": "House 10",
+      "type": "House",
+      "bedrooms": 3,
+      "price": 825000,
+      "tenure": "Freehold",
+      "description": "Stylish three-bedroom duplex with terrace and city views.",
+      "location": "Cedar Close, Shoreditch, London.",
+      "reservation": "(919) 555-7423",
+      "picture": "../../public/assets/items/H10.jpg",
+      "url": "properties/prop2.html",
+      "added": {
+        "month": "January",
+        "day": 3,
+        "year": 2025
+      }
+    },
+    {
+      "id": "House 11",
+      "type": "House",
+      "bedrooms": 3,
+      "price": 840000,
+      "tenure": "Freehold",
+      "description": "Newly built family home with spacious rooms and garage.",
+      "location": "Ash Court, Chiswick, London.",
+      "reservation": "(858) 555-6190",
+      "picture": "../../public/assets/items/H11.jpg",
+      "url": "properties/prop2.html",
+      "added": {
+        "month": "December",
+        "day": 17,
+        "year": 2024
+      }
+    },
+    {
+      "id": "House 12",
+      "type": "House",
+      "bedrooms": 2,
+      "price": 850900,
+      "tenure": "Freehold",
+      "description": "Modern studio apartment with excellent transport and amenities.",
+      "location": "Sycamore Drive, Camden, London.",
+      "reservation": "(954) 555-5348",
+      "picture": "../../public/assets/items/H12.jpg",
+      "url": "properties/prop2.html",
+      "added": {
+        "month": "January",
+        "day": 1,
+        "year": 2025
+      }
+    }
+  ]
+}

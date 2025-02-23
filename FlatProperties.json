@@ -1,0 +1,208 @@
+{
+  "properties": [
+    {
+      "id": "Flat 1",
+      "type": "Flat",
+      "bedrooms": 2,
+      "price": 240000,
+      "tenure": "Freehold",
+      "description": "Stylish two-bedroom flat with balcony and central location.",
+      "location": "Bromley High Street, Bromley, London.",
+      "reservation": "(718) 555-1347",
+      "picture": "../../public/assets/items/F1.jpg",
+      "url": "properties/prop2.html",
+      "added": {
+        "month": "December",
+        "day": 14,
+        "year": 2024
+      }
+    },
+    {
+      "id": "Flat 2",
+      "type": "Flat",
+      "bedrooms": 2,
+      "price": 289000,
+      "tenure": "Freehold",
+      "description": "Refurbished two-bedroom flat near station with en-suite.",
+      "location": "Station Road, Croydon, Surrey.",
+      "reservation": "(312) 555-6489",
+      "picture": "../../public/assets/items/F2.jpg",
+      "url": "properties/prop2.html",
+      "added": {
+        "month": "December",
+        "day": 20,
+        "year": 2024
+      }
+    },
+    {
+      "id": "Flat 3",
+      "type": "Flat",
+      "bedrooms": 3,
+      "price": 399995,
+      "tenure": "Freehold",
+      "description": "Cozy three-bedroom flat near Richmond Park and amenities.",
+      "location": "Queens Road, Richmond, London.",
+      "reservation": "(818) 555-4821",
+      "picture": "../../public/assets/items/F3.jpg",
+      "url": "properties/prop2.html",
+      "added": {
+        "month": "January",
+        "day": 3,
+        "year": 2025
+      }
+    },
+    {
+      "id": "Flat 4",
+      "type": "Flat",
+      "bedrooms": 2,
+      "price": 310000,
+      "tenure": "Freehold",
+      "description": "Modern two-bedroom flat with wooden floors and family-friendly location.",
+      "location": "Green Lane, Harrow, Middlesex.",
+      "reservation": "(305) 555-7632",
+      "picture": "../../public/assets/items/F4.jpg",
+      "url": "properties/prop2.html",
+      "added": {
+        "month": "December",
+        "day": 12,
+        "year": 2024
+      }
+    },
+    {
+      "id": "Flat 5",
+      "type": "Flat",
+      "bedrooms": 3,
+      "price": 390000,
+      "tenure": "Freehold",
+      "description": "Bright three-bedroom flat with terrace near Camden Market.",
+      "location": "Camden Road, Camden Town, London.",
+      "reservation": "(602) 555-1945",
+      "picture": "../../public/assets/items/F5.jpg",
+      "url": "properties/prop2.html",
+      "added": {
+        "month": "January",
+        "day": 1,
+        "year": 2025
+      }
+    },
+    {
+      "id": "Flat 6",
+      "type": "Flat",
+      "bedrooms": 3,
+      "price": 315000,
+      "tenure": "Freehold",
+      "description": "Modern studio with open-plan kitchen and city views.",
+      "location": "Camden Town, London.",
+      "reservation": "(504) 555-6378",
+      "picture": "../../public/assets/items/F6.jpg",
+      "url": "properties/prop2.html",
+      "added": {
+        "month": "December",
+        "day": 5,
+        "year": 2024
+      }
+    },
+    {
+      "id": "Flat 7",
+      "type": "Flat",
+      "bedrooms": 3,
+      "price": 395000,
+      "tenure": "Freehold",
+      "description": "Spacious family home with garden and parking space.",
+      "location": "Richmond Hill, Richmond, London.",
+      "reservation": "(216) 555-8453",
+      "picture": "../../public/assets/items/F7.jpg",
+      "url": "properties/prop2.html",
+      "added": {
+        "month": "December",
+        "day": 18,
+        "year": 2024
+      }
+    },
+    {
+      "id": "Flat 8",
+      "type": "Flat",
+      "bedrooms": 3,
+      "price": 330000,
+      "tenure": "Freehold",
+      "description": "Bright apartment near parks and excellent transport links.",
+      "location": "Clapham Common, London.",
+      "reservation": "(407) 555-2089",
+      "picture": "../../public/assets/items/F8.jpg",
+      "url": "properties/prop2.html",
+      "added": {
+        "month": "January",
+        "day": 1,
+        "year": 2025
+      }
+    },
+    {
+      "id": "Flat 9",
+      "type": "Flat",
+      "bedrooms": 2,
+      "price": 405000,
+      "tenure": "Freehold",
+      "description": "Contemporary penthouse with terrace and river views.",
+      "location": "Canary Wharf, London.",
+      "reservation": "(503) 555-4973",
+      "picture": "../../public/assets/items/F9.jpg",
+      "url": "properties/prop2.html",
+      "added": {
+        "month": "December",
+        "day": 21,
+        "year": 2024
+      }
+    },
+    {
+      "id": "Flat 10",
+      "type": "Flat",
+      "bedrooms": 2,
+      "price": 395000,
+      "tenure": "Freehold",
+      "description": "Charming cottage with fireplace and quiet surroundings.",
+      "location": "Greenwich Village, London.",
+      "reservation": "(214) 555-3209",
+      "picture": "../../public/assets/items/F10.jpg",
+      "url": "properties/prop2.html",
+      "added": {
+        "month": "December",
+        "day": 2,
+        "year": 2024
+      }
+    },
+    {
+      "id": "Flat 11",
+      "type": "Flat",
+      "bedrooms": 3,
+      "price": 270000,
+      "tenure": "Freehold",
+      "description": "Luxury flat with concierge and secure underground parking.",
+      "location": "Kensington High Street, London.",
+      "reservation": "(202) 555-0176",
+      "picture": "../../public/assets/items/F11.jpg",
+      "url": "properties/prop2.html",
+      "added": {
+        "month": "December",
+        "day": 30,
+        "year": 2024
+      }
+    },
+    {
+      "id": "Flat 12",
+      "type": "Flat",
+      "bedrooms": 3,
+      "price": 365000,
+      "tenure": "Freehold",
+      "description": "Newly renovated home close to schools and amenities.",
+      "location": "Walthamstow Central, London.",
+      "reservation": "(415) 555-9275",
+      "picture": "../../public/assets/items/F12.jpg",
+      "url": "properties/prop2.html",
+      "added": {
+        "month": "January",
+        "day": 4,
+        "year": 2025
+      }
+    }
+  ]
+}
